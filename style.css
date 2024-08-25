@@ -3,39 +3,3 @@
   padding: 0px;
   margin: 0px;
 }
-
-.myone {
-  border: 2px solid black;
-  height: 80vh;
-  margin-top: 50px;
-  background-color: rgb(243, 243, 233);
-}
-.myone h1 {
-  text-align: center;
-  color: blue;
-}
-p {
-  color: brown;
-}
-.menu-section {
-  border-bottom: 1px solid black;
-}
-.content-section {
-  border-right: 1px solid black;
-  margin-left: 105px;
-  padding: 10px;
-}
-.side-section ul li {
-  padding: 20px;
-  color: blueviolet;
-  list-style-type: none;
-}
-footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-top: 1px solid black;
-  padding: 25px;
-  text-align: center;
-  color: gray;
-}
